@@ -1,0 +1,2 @@
+This program allows the user to track their workout by input information about their workouts into the system.
+I used abstraction for this program since i didn't think inner classes were both classes i created were independent from eachother.
